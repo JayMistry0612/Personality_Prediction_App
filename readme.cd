@@ -26,8 +26,8 @@ This project is a machine learning web application that predicts personality tra
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/JayMistry0612/Personality_Prediction_App.git
+cd Personality_Prediction_App
 ```
 
 ### 2. Install Dependencies
