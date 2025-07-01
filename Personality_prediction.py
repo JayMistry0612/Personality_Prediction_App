@@ -26,7 +26,7 @@ if st.button('Predict Personality'):
             fcs,
             pf
         ]
-        prediction = pipe.predict([input_data])[0]
+        prediction = pipe.predict([input_data])
         st.success(f'Predicted Personality: {prediction}')
     except Exception as e:
         st.error(f'Error in prediction: {e}')
